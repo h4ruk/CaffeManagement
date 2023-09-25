@@ -1,0 +1,13 @@
+C:\Users\hung\Desktop\CaffeManagement\Code\CafeManagement\bin\Debug\CafeManagement.exe.config
+C:\Users\hung\Desktop\CaffeManagement\Code\CafeManagement\bin\Debug\CafeManagement.exe
+C:\Users\hung\Desktop\CaffeManagement\Code\CafeManagement\bin\Debug\CafeManagement.pdb
+C:\Users\hung\Desktop\CaffeManagement\Code\CafeManagement\obj\Debug\CafeManagement.csproj.AssemblyReference.cache
+C:\Users\hung\Desktop\CaffeManagement\Code\CafeManagement\obj\Debug\CafeManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\hung\Desktop\CaffeManagement\Code\CafeManagement\obj\Debug\CafeManagement.fLogin.resources
+C:\Users\hung\Desktop\CaffeManagement\Code\CafeManagement\obj\Debug\CafeManagement.Properties.Resources.resources
+C:\Users\hung\Desktop\CaffeManagement\Code\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+C:\Users\hung\Desktop\CaffeManagement\Code\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+C:\Users\hung\Desktop\CaffeManagement\Code\CafeManagement\obj\Debug\CafeManagement.exe
+C:\Users\hung\Desktop\CaffeManagement\Code\CafeManagement\obj\Debug\CafeManagement.pdb
+C:\Users\hung\Desktop\CaffeManagement\Code\CafeManagement\obj\Debug\CafeManagement.fTableManager.resources
+C:\Users\hung\Desktop\CaffeManagement\Code\CafeManagement\obj\Debug\CafeManagement.fAdmin.resources
